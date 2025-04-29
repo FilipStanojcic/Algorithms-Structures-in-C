@@ -1,12 +1,8 @@
 /*
  -------------------------------------
  File:    algorithm.h
- Project: a10
- file description
  -------------------------------------
  Author:  Filip Stanojcic
- ID:      169035905
- Email:   stan5905@mylaurier.ca
  Version  2024-03-26
  -------------------------------------
  */
