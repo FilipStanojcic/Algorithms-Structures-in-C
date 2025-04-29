@@ -10,6 +10,6 @@ Data Structures:
   - Adjacency Matrix Graph
 
 Algorithms:
-  - Bankers
+  - Banker's
   - Computed SPT (Shortest Path Tree) Djikstra's with Priority Queue
   - Computed MST (Minimum Spanning Tree) using Prim's with Priority Queue
