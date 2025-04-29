@@ -11,5 +11,6 @@ Data Structures:
 
 Algorithms:
   - Banker's
+  - Best-Fit Allocation
   - Computed SPT (Shortest Path Tree) Djikstra's with Priority Queue
   - Computed MST (Minimum Spanning Tree) using Prim's with Priority Queue
