@@ -1,4 +1,4 @@
-# Algorithms/Structures in C
+# Description
 Functions relating to data structures and their operations, as well as some algorithms are all contained here.
 
 Data Structures:
